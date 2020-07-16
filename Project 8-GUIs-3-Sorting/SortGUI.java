@@ -144,3 +144,4 @@ public class SortGUI extends JPanel {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
+
